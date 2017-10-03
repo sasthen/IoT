@@ -1,1 +1,9 @@
 This is our first IOT application. 
+
+Team Members
+--------------
+Leader - John P A
+Programmer - Abhijith M K
+Documenter - Fayas
+Technician - Sasthenesan N
+Web Technician - Sreejesh N G
